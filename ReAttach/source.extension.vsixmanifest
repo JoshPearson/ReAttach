@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="ReAttach.Erland Ranvinge.0ee94538-22b7-40c8-a253-3fce8ad39b6f" Version="2.5" Language="en-US" Publisher="Erland Ranvinge" />
-        <DisplayName>ReAttach</DisplayName>
-        <Description xml:space="preserve">ReAttach gives you an easy way to ReAttaching your prior debug targets. ReAttach stores your attach history for you and provides toolbar, menu and keyboard shortcuts for easy access.</Description>
+        <Identity Id="ReAttachEx.Josh Pearson.b4f81e4c-b917-4f2f-afbb-df1853cd4f4b" Version="2.5" Language="en-US" Publisher="Josh Pearson" />
+        <DisplayName>ReAttachEx</DisplayName>
+        <Description xml:space="preserve">ReAttach gives you an easy way to ReAttaching your prior debug targets. ReAttach stores your attach history for you and provides toolbar, menu and keyboard shortcuts for easy access.
+
+Ex: With support for usernames on remote targets</Description>
         <MoreInfo>https://marketplace.visualstudio.com/items?itemName=ErlandR.ReAttach</MoreInfo>
         <License>LICENSE.txt</License>
         <GettingStartedGuide>https://marketplace.visualstudio.com/items?itemName=ErlandR.ReAttach</GettingStartedGuide>
